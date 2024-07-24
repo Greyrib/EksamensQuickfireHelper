@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EksamensQuickfireHelper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3822abd3c6e87460883f663f0b7627fdc2f8c07f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EksamensQuickfireHelper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EksamensQuickfireHelper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Label Content="Hvad kan du sige om følgende emne :" HorizontalAlignment="Center" Margin="0,72,0,0" VerticalAlignment="Top"/>
+        <Label Name="Lbl_Emne" Content="Emne" FontSize="20" HorizontalAlignment="Left" Margin="294,141,0,0" VerticalAlignment="Top"/>
+        <Button Name="Btn_NewSubjectPls" Content="Nyt Emne, Tak!" HorizontalAlignment="Center" Margin="0,264,0,0" VerticalAlignment="Top" Width="96" Click="Btn_NewSubjectPls_Click"/>
 
     </Grid>
 </Window>
