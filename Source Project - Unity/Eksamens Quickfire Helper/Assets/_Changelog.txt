@@ -1,0 +1,22 @@
+#############################################
+### Eksamens Quickfire Helper - Changelog ###
+#############################################
+
+------------>>> 
+
+------------>>> 27-07-2024
+
+> Updated to v0.2c
+
+- Fixed typo "Persistance"
+
+---
+
+- Added paranthesis-part to "Assuring Quality" [(Traceability)]
+
+------------>>> 24-07-2024
+
+- Tested by Neko
+- First Unity version created
+
+------------>>> 
